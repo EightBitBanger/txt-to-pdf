@@ -1,0 +1,23 @@
+// Example layout file
+// 
+// [begin_page_block] size, color, left|center|right, optional_page_footer_anchor
+
+[page0] 16, blue, center
+Introduction
+[page0] 9, black, left
+
+An example line of text
+
+[page0] 9, gray, center, bottom
+page 0
+[/page0]
+
+[page1] 16, blue, center
+Conclusion
+[page1] 9, black, left
+
+what da?
+
+[page1] 9, gray, center, bottom
+page 1
+[/page1]
